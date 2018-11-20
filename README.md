@@ -151,11 +151,11 @@
 
 - P2_conf直方图：
 
-![p2_conf直方图](https://github.com/ArtemisLiu/We-Rate-Dogs--Python/blob/master/结论图表/p2_conf直方图.png)
+![p2_conf直方图](https://github.com/ArtemisLiu/We-Rate-Dogs--Python/blob/master/结论图表/P2_conf直方图.png)
 
 - P3_conf直方图：
 
-![p3_conf直方图](https://github.com/ArtemisLiu/We-Rate-Dogs--Python/blob/master/结论图表/p3_conf直方图.png)
+![p3_conf直方图](https://github.com/ArtemisLiu/We-Rate-Dogs--Python/blob/master/结论图表/P3_conf直方图.png)
 
 结论：分析p1_conf，p2_conf，p3_conf可知1号预测的可信度 > 2号预测的可信度 > 3号预测的可信度，2号预测和3号预测的可信度均小于0.5，1号预测可信度的均值为0.59，可信度相对来说还是不高，因此图形预测算法还有很大的提升空间。
 
