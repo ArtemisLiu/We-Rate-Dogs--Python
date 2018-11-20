@@ -79,7 +79,7 @@
 
 #### 2.清洁度问题 
 
-- l  twitter：doggo、floofer、pupper、puppo应该用狗的地位stage来表示，doggo、floofer、pupper、puppo有缺省值，有的条目并列存在。
+- twitter：doggo、floofer、pupper、puppo应该用狗的地位stage来表示，doggo、floofer、pupper、puppo有缺省值，有的条目并列存在。
 
 处理方法：doggo、floofer、pupper、puppo应该用狗的地位stage来表示，删除这四列，并用str.findall函数和正则表达式重新提取“stage”信息，再用apply函数针对stage这一列做出修改，将未提取出来的修改为 NaN，有多重地位的将这些地位信息用逗号连接。
 
